@@ -9,6 +9,7 @@ MITA (Co-founder and lead dev)
 Contrasting Sorcery (cool ass unity game, Full RPG game)  
 ChannelExpertise (TUI app I made, everyone needs a python proj)  
 GarbageCode (Sprouthacks hackathon winner)  
+CYBERCRIM (cybersecurity discord bot discontinued)  
 
 
 yipeng.dev@gmail.com hmu lets make something cool
