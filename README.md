@@ -10,6 +10,7 @@ Contrasting Sorcery (cool ass unity game, Full RPG game)
 ChannelExpertise (TUI app I made, everyone needs a python proj)  
 GarbageCode (Sprouthacks hackathon winner)  
 CYBERCRIM (cybersecurity discord bot discontinued)  
+Lobotomist's Legacy (Full solo roblox horror, hobbyist activity but still a project out of passion.)
 
 
 yipeng.dev@gmail.com hmu lets make something cool
