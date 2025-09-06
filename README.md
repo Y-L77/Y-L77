@@ -2,7 +2,7 @@
 **`📚Student | 👩‍💻Cybersec fan`**
 
 
-I make cool stuff.
+I make cool things that actually works.
 
 Top projects:  
 MITA (Co-founder and lead dev)  
