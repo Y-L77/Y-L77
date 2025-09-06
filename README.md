@@ -4,7 +4,7 @@
 
 I make cool stuff.
 
-Top projects:
+Top projects:  
 MITA (Co-founder and lead dev)  
 Contrasting Sorcery (cool ass unity game, Full RPG game)  
 ChannelExpertise (TUI app I made, everyone needs a python proj)  
