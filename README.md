@@ -1,10 +1,18 @@
-# 🙂Yipeng Lu
-**`📚Higschool Student | 👩‍💻software developer | 🌱aspiring SWE`**
+# Yipeng Lu 08
+**`📚Student | 👩‍💻Cybersec fan`**
 
 
-I'm a student developer and I've explored lots of software development fields, including cybersecurity, app development, ML & AI, game development and web development. Most of my projects, I've started out of passion so I've learned through personal projects from the ground up as an indie developer, occasionally working on bigger projects with more people from hackathons, contracts, open source projects and school clubs. You can find some of my game development projects on [itch](https://webcent-games.itch.io/)
+I make cool stuff.
 
-I've worked as a paid developer from short term or contract jobs, as a tutor and as a freelancer for game and web development, where you can find [here](https://www.fiverr.com/s/NNQeWPo)
+Top projects:
+MITA (Co-founder and lead dev)
+Contrasting Sorcery (cool ass unity game, Full RPG game)
+ChannelExpertise (TUI app I made, everyone needs a python proj)
+GarbageCode (Sprouthacks hackathon winner)
+
+
+yipeng.dev@gmail.com hmu lets make something cool
+
 ## Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
