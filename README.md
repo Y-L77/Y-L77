@@ -2,14 +2,14 @@
 **`📚Student | 👩‍💻Cybersec fan`**
 
 
-I make cool things that work.
+i make cool things that work
 
-Top projects:  
+cool(est) projects:  
 MITA (Co-founder and lead dev)  
 Contrasting Sorcery (cool unity game, Full RPG game)  
 ChannelExpertise (TUI app I made, everyone needs a python proj)  
 GarbageCode (Sprouthacks hackathon winner)  
-CYBERCRIM (cybersecurity discord bot discontinued)  
+CYBERCRIM (cybersecurity discord bot discontinued)
 
 
 yipeng.dev@gmail.com hmu lets make something cool
