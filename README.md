@@ -1,18 +1,19 @@
 # Yipeng Lu 08
 **`📚Student | 👩‍💻Cybersec fan`**
 
-
 i make cool things that work
 
-cool(est) projects:  
-MITA (Co-founder and lead dev)  
-Contrasting Sorcery (cool unity game, Full RPG game)  
-ChannelExpertise (TUI app I made, everyone needs a python proj)  
-GarbageCode (Sprouthacks hackathon winner)  
-CYBERCRIM (cybersecurity discord bot discontinued)
+## cool(est) projects:  
+MITA - math platform analyzing skill with elo, co-founder and lead dev
+Contrasting Sorcery - Unity RPG game feat. custom combat and progression systems
+GarbageCode - 24h sprouthacks hackathon winner
+CYBERCRIM - cybersecurity discord bot
 
+## Academic highlights:
+-Putnam: [ TBD/120, 2026 ]
+-LeetCode: [23 solves, top 65%]
+-MathPortfolio Repository: [MATH135, MATH137, ...]
 
-yipeng.dev@gmail.com hmu lets make something cool
 
 ## Tech Stack
 
