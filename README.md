@@ -3,15 +3,22 @@
 
 i make cool things that work
 
-## cool(est) projects:  
+## cool(est) projects: 
+
 MITA - math platform analyzing skill with elo, co-founder and lead dev
+
 Contrasting Sorcery - Unity RPG game feat. custom combat and progression systems
+
 GarbageCode - 24h sprouthacks hackathon winner
+
 CYBERCRIM - cybersecurity discord bot
 
 ## Academic highlights:
+
 -Putnam: [ TBD/120, 2026 ]
+
 -LeetCode: [23 solves, top 65%]
+
 -MathPortfolio Repository: [MATH135, MATH137, ...]
 
 
